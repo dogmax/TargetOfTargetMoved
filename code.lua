@@ -1,8 +1,12 @@
--- local FRAME = CreateFrame("FRAME")
+local FRAMEZ = CreateFrame("FRAME")
 
-TargetofTargetFrame:SetScript("OnShow", 
-	function(self)
+FRAMEZ:RegisterEvent("ADDON_LOADED")
+
+FRAMEZ:SetScript("OnUpdate", 
+
+	function()
 		TargetofTargetFrame:ClearAllPoints();
 		TargetofTargetFrame:SetPoint("RIGHT", "TargetFrame", "BOTTOMRIGHT", 0, 5);
 	end 
-)
+	
+) 
