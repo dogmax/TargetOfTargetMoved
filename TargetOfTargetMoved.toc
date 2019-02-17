@@ -2,7 +2,6 @@
 ## Title: Target Of Target Moved
 ## Notes: v. 1
 ## Author: johnlars	
-## Notes: hope it works
-
+## Notes: youre welcome
 code.lua
 
