@@ -1,4 +1,4 @@
-# TargetOfTargetMoved
+# TargetOfTargetMoved (For TBC client, 2.4.3)
 Moves the Target of Target Frame so you can see the debuffs on your target. (Client: TBC, 2.4.3)
 
 
