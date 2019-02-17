@@ -1,4 +1,4 @@
-local FRAME = CreateFrame("FRAME")
+-- local FRAME = CreateFrame("FRAME")
 
 TargetofTargetFrame:SetScript("OnShow", 
 	function(self)
