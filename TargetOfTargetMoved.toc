@@ -1,0 +1,8 @@
+## Interface: 20000  
+## Title: Target Of Target Moved
+## Notes: vers. 1
+## Author: johnlars	
+## Notes: hope it works
+
+code.lua
+
