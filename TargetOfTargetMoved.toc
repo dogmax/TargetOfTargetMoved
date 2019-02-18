@@ -2,6 +2,6 @@
 ## Title: Target Of Target Moved
 ## Notes: v. 1
 ## Author: johnlars	
-## Notes: youre welcome
+## Notes: Moves the Target of Target unitframe a little to the right, such that it no longer covers the buff/debuff icons of the target.
 code.lua
 
