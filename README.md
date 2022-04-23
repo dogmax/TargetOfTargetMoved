@@ -4,6 +4,7 @@ Moves the Target of Target Frame so you can see the debuffs on your target. (Cli
 
 ![Alt Text](https://i.imgur.com/ORsyThR.png)
 
+I know it's ugly, but it works.
 
 # HOW TO INSTALL
 remove "-master" from the folder after unzipping.
